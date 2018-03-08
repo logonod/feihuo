@@ -1,0 +1,17 @@
+
+
+386_OBJECTS=\
+ $(OBJ_PATH)\$O\utils.obj \
+ $(OBJ_PATH)\$O\x2y.obj \
+
+
+
+
+
+# lowercased
+BASEDIR=h:\winddk\7600.16385.1
+OBJECT_ROOT=h:\winddk\7600.16385.1
+MAKEDIR_LOWERCASE=c:\users\ffq\downlo~1\compre~1\test\interc~1\samples\x2y
+OBJ_PATH=c:\users\ffq\downlo~1\compre~1\test\interc~1\samples\x2y
+CONCURRENT_MIDL=0
+CONCURRENT_MANIFEST_BUILD=0
